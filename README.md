@@ -47,7 +47,7 @@ h2 {
 h3 {
     text-align: center;
     color: #333333;
-    margin-top: 2px;
+    margin-top: 0px;
     margin-bottom: 20px;
     font-size: 15px;
 }
