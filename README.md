@@ -165,9 +165,9 @@ background-color: #ccc;
 }
 </style>
 <body>
-    <div class="main-container">
+<!--     <div class="main-container"> -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Government_of_India_logo.svg/640px-Government_of_India_logo.svg.png" alt="Government of India Logo" class="india">
-    </div>
+<!--     </div> -->
     <div class="form-container">
         <h2>Scholarship Application Form</h2>
         <h3>National Scholarship Portal</h3>
